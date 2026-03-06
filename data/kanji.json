@@ -1,0 +1,262 @@
+{
+    "1": {
+        "symbol": "日",
+        "onyomi": "ニチ, ジツ",
+        "kunyomi": "ひ, -び, -か",
+        "meaning": "sun, day",
+        "strokes": 4,
+        "example": {
+            "word": "日本",
+            "word_meaning": "Japan",
+            "sentence": "今日はいい天気です。",
+            "translation": "Today is good weather."
+        }
+    },
+    "2": {
+        "symbol": "一",
+        "onyomi": "イチ, イツ",
+        "kunyomi": "ひと-",
+        "meaning": "one",
+        "strokes": 1,
+        "example": {
+            "word": "一つ",
+            "word_meaning": "one thing",
+            "sentence": "りんごを一つください。",
+            "translation": "Please give me one apple."
+        }
+    },
+    "3": {
+        "symbol": "人",
+        "onyomi": "ジン, ニン",
+        "kunyomi": "ひと",
+        "meaning": "person",
+        "strokes": 2,
+        "example": {
+            "word": "日本人",
+            "word_meaning": "Japanese person",
+            "sentence": "あの人は先生です。",
+            "translation": "That person is a teacher."
+        }
+    },
+    "4": {
+        "symbol": "大",
+        "onyomi": "ダイ, タイ",
+        "kunyomi": "おお-",
+        "meaning": "big, large",
+        "strokes": 3,
+        "example": {
+            "word": "大学",
+            "word_meaning": "university",
+            "sentence": "大学に行きます。",
+            "translation": "I go to university."
+        }
+    },
+    "5": {
+        "symbol": "年",
+        "onyomi": "ネン",
+        "kunyomi": "とし",
+        "meaning": "year",
+        "strokes": 6,
+        "example": {
+            "word": "今年",
+            "word_meaning": "this year",
+            "sentence": "今年は忙しいです。",
+            "translation": "This year is busy."
+        }
+    },
+    "6": {
+        "symbol": "本",
+        "onyomi": "ホン",
+        "kunyomi": "もと",
+        "meaning": "book, origin",
+        "strokes": 5,
+        "example": {
+            "word": "本を読みます",
+            "word_meaning": "read a book",
+            "sentence": "毎日本を読みます。",
+            "translation": "I read books every day."
+        }
+    },
+    "7": {
+        "symbol": "中",
+        "onyomi": "チュウ",
+        "kunyomi": "なか",
+        "meaning": "inside, middle",
+        "strokes": 4,
+        "example": {
+            "word": "中国",
+            "word_meaning": "China",
+            "sentence": "中国語を勉強します。",
+            "translation": "I study Chinese."
+        }
+    },
+    "8": {
+        "symbol": "長",
+        "onyomi": "チョウ",
+        "kunyomi": "なが-い",
+        "meaning": "long, leader",
+        "strokes": 8,
+        "example": {
+            "word": "校長",
+            "word_meaning": "principal",
+            "sentence": "校長先生に会います。",
+            "translation": "I meet the school principal."
+        }
+    },
+    "9": {
+        "symbol": "出",
+        "onyomi": "シュツ, スイ",
+        "kunyomi": "で-る, だ-す",
+        "meaning": "exit, go out",
+        "strokes": 5,
+        "example": {
+            "word": "出口",
+            "word_meaning": "exit",
+            "sentence": "出口はどこですか？",
+            "translation": "Where is the exit?"
+        }
+    },
+    "10": {
+        "symbol": "三",
+        "onyomi": "サン",
+        "kunyomi": "みっつ",
+        "meaning": "three",
+        "strokes": 3,
+        "example": {
+            "word": "三人",
+            "word_meaning": "three people",
+            "sentence": "友達が三人います。",
+            "translation": "I have three friends."
+        }
+    },
+    "11": {
+        "symbol": "気",
+        "onyomi": "キ, ケ",
+        "kunyomi": "",
+        "meaning": "spirit, air, mood",
+        "strokes": 6,
+        "example": {
+            "word": "元気",
+            "word_meaning": "healthy, energetic",
+            "sentence": "元気ですか？",
+            "translation": "How are you?"
+        }
+    },
+    "12": {
+        "symbol": "見",
+        "onyomi": "ケン",
+        "kunyomi": "み-る",
+        "meaning": "see, look",
+        "strokes": 7,
+        "example": {
+            "word": "見ます",
+            "word_meaning": "to see, watch",
+            "sentence": "映画を見ます。",
+            "translation": "I watch a movie."
+        }
+    },
+    "13": {
+        "symbol": "行",
+        "onyomi": "コウ, ギョウ",
+        "kunyomi": "い-く, おこな-う",
+        "meaning": "go, conduct",
+        "strokes": 6,
+        "example": {
+            "word": "行きます",
+            "word_meaning": "to go",
+            "sentence": "学校へ行きます。",
+            "translation": "I go to school."
+        }
+    },
+    "14": {
+        "symbol": "食",
+        "onyomi": "ショク, ジキ",
+        "kunyomi": "た-べる, く-う",
+        "meaning": "eat, food",
+        "strokes": 9,
+        "example": {
+            "word": "食べます",
+            "word_meaning": "to eat",
+            "sentence": "りんごを食べます。",
+            "translation": "I eat an apple."
+        }
+    },
+    "15": {
+        "symbol": "小",
+        "onyomi": "ショウ",
+        "kunyomi": "ちい-さい, こ-",
+        "meaning": "small",
+        "strokes": 3,
+        "example": {
+            "word": "小学校",
+            "word_meaning": "elementary school",
+            "sentence": "小学校に通います。",
+            "translation": "I go to elementary school."
+        }
+    },
+    "16": {
+        "symbol": "上",
+        "onyomi": "ジョウ, ショウ",
+        "kunyomi": "うえ, あ-がる",
+        "meaning": "above, up",
+        "strokes": 3,
+        "example": {
+            "word": "上手",
+            "word_meaning": "skillful",
+            "sentence": "彼はピアノが上手です。",
+            "translation": "He is good at piano."
+        }
+    },
+    "17": {
+        "symbol": "下",
+        "onyomi": "カ, ゲ",
+        "kunyomi": "した, さ-がる",
+        "meaning": "below, down",
+        "strokes": 3,
+        "example": {
+            "word": "地下",
+            "word_meaning": "underground",
+            "sentence": "地下鉄に乗ります。",
+            "translation": "I ride the subway."
+        }
+    },
+    "18": {
+        "symbol": "力",
+        "onyomi": "リョク, リキ",
+        "kunyomi": "ちから",
+        "meaning": "power, strength",
+        "strokes": 2,
+        "example": {
+            "word": "力持ち",
+            "word_meaning": "strong person",
+            "sentence": "彼は力持ちです。",
+            "translation": "He is strong."
+        }
+    },
+    "19": {
+        "symbol": "天",
+        "onyomi": "テン",
+        "kunyomi": "あまつ, あめ",
+        "meaning": "heaven, sky",
+        "strokes": 4,
+        "example": {
+            "word": "天気",
+            "word_meaning": "weather",
+            "sentence": "今日は天気がいいです。",
+            "translation": "The weather is nice today."
+        }
+    },
+    "20": {
+        "symbol": "見",
+        "onyomi": "ケン",
+        "kunyomi": "み-る",
+        "meaning": "see, look",
+        "strokes": 7,
+        "example": {
+            "word": "見ます",
+            "word_meaning": "to see",
+            "sentence": "映画を見ます。",
+            "translation": "I watch a movie."
+        }
+    }
+}

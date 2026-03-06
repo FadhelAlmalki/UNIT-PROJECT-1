@@ -1,0 +1,338 @@
+[
+    {
+        "word": "私",
+        "reading": "わたし",
+        "romaji": "watashi",
+        "meaning": "I, me",
+        "example": "私は学生です。"
+    },
+    {
+        "word": "あなた",
+        "reading": "あなた",
+        "romaji": "anata",
+        "meaning": "you",
+        "example": "あなたは先生ですか？"
+    },
+    {
+        "word": "人",
+        "reading": "ひと",
+        "romaji": "hito",
+        "meaning": "person",
+        "example": "あの人は先生です。"
+    },
+    {
+        "word": "友達",
+        "reading": "ともだち",
+        "romaji": "tomodachi",
+        "meaning": "friend",
+        "example": "友達と話します。"
+    },
+    {
+        "word": "学校",
+        "reading": "がっこう",
+        "romaji": "gakkou",
+        "meaning": "school",
+        "example": "毎日学校に行きます。"
+    },
+    {
+        "word": "先生",
+        "reading": "せんせい",
+        "romaji": "sensei",
+        "meaning": "teacher",
+        "example": "先生に聞きます。"
+    },
+    {
+        "word": "学生",
+        "reading": "がくせい",
+        "romaji": "gakusei",
+        "meaning": "student",
+        "example": "私は学生です。"
+    },
+    {
+        "word": "本",
+        "reading": "ほん",
+        "romaji": "hon",
+        "meaning": "book",
+        "example": "本を読みます。"
+    },
+    {
+        "word": "車",
+        "reading": "くるま",
+        "romaji": "kuruma",
+        "meaning": "car",
+        "example": "黒い車です。"
+    },
+    {
+        "word": "犬",
+        "reading": "いぬ",
+        "romaji": "inu",
+        "meaning": "dog",
+        "example": "犬が好きです。"
+    },
+    {
+        "word": "猫",
+        "reading": "ねこ",
+        "romaji": "neko",
+        "meaning": "cat",
+        "example": "猫がいます。"
+    },
+    {
+        "word": "水",
+        "reading": "みず",
+        "romaji": "mizu",
+        "meaning": "water",
+        "example": "水をください。"
+    },
+    {
+        "word": "火",
+        "reading": "ひ",
+        "romaji": "hi",
+        "meaning": "fire",
+        "example": "火を消してください。"
+    },
+    {
+        "word": "山",
+        "reading": "やま",
+        "romaji": "yama",
+        "meaning": "mountain",
+        "example": "山へ行きたいです。"
+    },
+    {
+        "word": "川",
+        "reading": "かわ",
+        "romaji": "kawa",
+        "meaning": "river",
+        "example": "川で遊びます。"
+    },
+    {
+        "word": "道",
+        "reading": "みち",
+        "romaji": "michi",
+        "meaning": "road",
+        "example": "道を教えてください。"
+    },
+    {
+        "word": "家族",
+        "reading": "かぞく",
+        "romaji": "kazoku",
+        "meaning": "family",
+        "example": "家族は大切です。"
+    },
+    {
+        "word": "電話",
+        "reading": "でんわ",
+        "romaji": "denwa",
+        "meaning": "telephone",
+        "example": "電話をかけます。"
+    },
+    {
+        "word": "雨",
+        "reading": "あめ",
+        "romaji": "ame",
+        "meaning": "rain",
+        "example": "今日は雨です。"
+    },
+    {
+        "word": "食べ物",
+        "reading": "たべもの",
+        "romaji": "tabemono",
+        "meaning": "food",
+        "example": "好きな食べ物は何ですか？"
+    },
+    {
+        "word": "飲み物",
+        "reading": "のみもの",
+        "romaji": "nomimono",
+        "meaning": "drink",
+        "example": "冷たい飲み物をください。"
+    },
+    {
+        "word": "電話番号",
+        "reading": "でんわばんごう",
+        "romaji": "denwabangou",
+        "meaning": "phone number",
+        "example": "電話番号を教えてください。"
+    },
+    {
+        "word": "部屋",
+        "reading": "へや",
+        "romaji": "heya",
+        "meaning": "room",
+        "example": "部屋は広いです。"
+    },
+    {
+        "word": "時間割",
+        "reading": "じかんわり",
+        "romaji": "jikanwari",
+        "meaning": "schedule",
+        "example": "時間割を見せてください。"
+    },
+    {
+        "word": "映画",
+        "reading": "えいが",
+        "romaji": "eiga",
+        "meaning": "movie",
+        "example": "映画を見に行きます。"
+    },
+    {
+        "word": "日本語",
+        "reading": "にほんご",
+        "romaji": "nihongo",
+        "meaning": "Japanese language",
+        "example": "日本語を勉強します。"
+    },
+    {
+        "word": "仕事",
+        "reading": "しごと",
+        "romaji": "shigoto",
+        "meaning": "work, job",
+        "example": "明日仕事があります。"
+    },
+    {
+        "word": "会社",
+        "reading": "かいしゃ",
+        "romaji": "kaisha",
+        "meaning": "company",
+        "example": "会社で働きます。"
+    },
+    {
+        "word": "休み",
+        "reading": "やすみ",
+        "romaji": "yasumi",
+        "meaning": "rest, holiday",
+        "example": "明日は休みです。"
+    },
+    {
+        "word": "時間",
+        "reading": "じかん",
+        "romaji": "jikan",
+        "meaning": "time",
+        "example": "何時間勉強しましたか？"
+    },
+    {
+        "word": "町",
+        "reading": "まち",
+        "romaji": "machi",
+        "meaning": "town, city",
+        "example": "町を歩きます。"
+    },
+    {
+        "word": "公園",
+        "reading": "こうえん",
+        "romaji": "kouen",
+        "meaning": "park",
+        "example": "公園で遊びます。"
+    },
+    {
+        "word": "店員",
+        "reading": "てんいん",
+        "romaji": "tenin",
+        "meaning": "shop assistant",
+        "example": "店員に聞きます。"
+    },
+    {
+        "word": "銀行",
+        "reading": "ぎんこう",
+        "romaji": "ginkou",
+        "meaning": "bank",
+        "example": "銀行へ行きます。"
+    },
+    {
+        "word": "病院",
+        "reading": "びょういん",
+        "romaji": "byouin",
+        "meaning": "hospital",
+        "example": "病院に行きます。"
+    },
+    {
+        "word": "薬",
+        "reading": "くすり",
+        "romaji": "kusuri",
+        "meaning": "medicine",
+        "example": "薬を飲みます。"
+    },
+    {
+        "word": "駅",
+        "reading": "えき",
+        "romaji": "eki",
+        "meaning": "train station",
+        "example": "駅で待ちます。"
+    },
+    {
+        "word": "電車",
+        "reading": "でんしゃ",
+        "romaji": "densha",
+        "meaning": "train",
+        "example": "電車に乗ります。"
+    },
+    {
+        "word": "飛行機",
+        "reading": "ひこうき",
+        "romaji": "hikouki",
+        "meaning": "airplane",
+        "example": "飛行機で東京へ行きます。"
+    },
+    {
+        "word": "手紙",
+        "reading": "てがみ",
+        "romaji": "tegami",
+        "meaning": "letter",
+        "example": "友達に手紙を書きます。"
+    },
+    {
+        "word": "写真",
+        "reading": "しゃしん",
+        "romaji": "shashin",
+        "meaning": "photo",
+        "example": "写真を撮ります。"
+    },
+    {
+        "word": "新聞",
+        "reading": "しんぶん",
+        "romaji": "shinbun",
+        "meaning": "newspaper",
+        "example": "新聞を読みます。"
+    },
+    {
+        "word": "雑誌",
+        "reading": "ざっし",
+        "romaji": "zasshi",
+        "meaning": "magazine",
+        "example": "雑誌を買いました。"
+    },
+    {
+        "word": "天気",
+        "reading": "てんき",
+        "romaji": "tenki",
+        "meaning": "weather",
+        "example": "今日の天気は晴れです。"
+    },
+    {
+        "word": "朝",
+        "reading": "あさ",
+        "romaji": "asa",
+        "meaning": "morning",
+        "example": "朝ご飯を食べます。"
+    },
+    {
+        "word": "昼",
+        "reading": "ひる",
+        "romaji": "hiru",
+        "meaning": "noon, daytime",
+        "example": "昼ご飯を食べました。"
+    },
+    {
+        "word": "夜",
+        "reading": "よる",
+        "romaji": "yoru",
+        "meaning": "night",
+        "example": "夜に散歩します。"
+    },
+    {
+        "word": "店",
+        "reading": "みせ",
+        "romaji": "mise",
+        "meaning": "shop, store",
+        "example": "新しい店に行きます。"
+    }
+]

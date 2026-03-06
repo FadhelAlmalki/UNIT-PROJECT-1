@@ -1,0 +1,508 @@
+{
+    "a": {
+        "symbol": "あ",
+        "romaji": "a",
+        "strokes": 3,
+        "example": {
+            "word": "あめ",
+            "word_meaning": "rain",
+            "sentence": "あめがふっています。",
+            "translation": "It is raining."
+        }
+    },
+    "i": {
+        "symbol": "い",
+        "romaji": "i",
+        "strokes": 2,
+        "example": {
+            "word": "いぬ",
+            "word_meaning": "dog",
+            "sentence": "いぬがいます。",
+            "translation": "There is a dog."
+        }
+    },
+    "u": {
+        "symbol": "う",
+        "romaji": "u",
+        "strokes": 2,
+        "example": {
+            "word": "うみ",
+            "word_meaning": "sea",
+            "sentence": "うみにいきます。",
+            "translation": "I will go to the sea."
+        }
+    },
+    "e": {
+        "symbol": "え",
+        "romaji": "e",
+        "strokes": 2,
+        "example": {
+            "word": "えき",
+            "word_meaning": "station",
+            "sentence": "えきはどこですか。",
+            "translation": "Where is the station?"
+        }
+    },
+    "o": {
+        "symbol": "お",
+        "romaji": "o",
+        "strokes": 3,
+        "example": {
+            "word": "おかね",
+            "word_meaning": "money",
+            "sentence": "おかねがほしいです。",
+            "translation": "I want money."
+        }
+    },
+    "ka": {
+        "symbol": "か",
+        "romaji": "ka",
+        "strokes": 3,
+        "example": {
+            "word": "かさ",
+            "word_meaning": "umbrella",
+            "sentence": "かさをもってきました。",
+            "translation": "I brought an umbrella."
+        }
+    },
+    "ki": {
+        "symbol": "き",
+        "romaji": "ki",
+        "strokes": 3,
+        "example": {
+            "word": "き",
+            "word_meaning": "tree",
+            "sentence": "きのしたでねます。",
+            "translation": "I sleep under the tree."
+        }
+    },
+    "ku": {
+        "symbol": "く",
+        "romaji": "ku",
+        "strokes": 1,
+        "example": {
+            "word": "くるま",
+            "word_meaning": "car",
+            "sentence": "くるまでいきます。",
+            "translation": "I will go by car."
+        }
+    },
+    "ke": {
+        "symbol": "け",
+        "romaji": "ke",
+        "strokes": 3,
+        "example": {
+            "word": "けむり",
+            "word_meaning": "smoke",
+            "sentence": "けむりがでています。",
+            "translation": "Smoke is coming out."
+        }
+    },
+    "ko": {
+        "symbol": "こ",
+        "romaji": "ko",
+        "strokes": 2,
+        "example": {
+            "word": "こども",
+            "word_meaning": "child",
+            "sentence": "こどもがあそんでいます。",
+            "translation": "Children are playing."
+        }
+    },
+    "sa": {
+        "symbol": "さ",
+        "romaji": "sa",
+        "strokes": 3,
+        "example": {
+            "word": "さかな",
+            "word_meaning": "fish",
+            "sentence": "さかなをたべます。",
+            "translation": "I eat fish."
+        }
+    },
+    "shi": {
+        "symbol": "し",
+        "romaji": "shi",
+        "strokes": 1,
+        "example": {
+            "word": "しろ",
+            "word_meaning": "white",
+            "sentence": "くつはしろです。",
+            "translation": "The shoes are white."
+        }
+    },
+    "su": {
+        "symbol": "す",
+        "romaji": "su",
+        "strokes": 2,
+        "example": {
+            "word": "すし",
+            "word_meaning": "sushi",
+            "sentence": "すしをたべます。",
+            "translation": "I eat sushi."
+        }
+    },
+    "se": {
+        "symbol": "せ",
+        "romaji": "se",
+        "strokes": 2,
+        "example": {
+            "word": "せんせい",
+            "word_meaning": "teacher",
+            "sentence": "せんせいはやさしいです。",
+            "translation": "The teacher is kind."
+        }
+    },
+    "so": {
+        "symbol": "そ",
+        "romaji": "so",
+        "strokes": 2,
+        "example": {
+            "word": "そら",
+            "word_meaning": "sky",
+            "sentence": "そらはあおいです。",
+            "translation": "The sky is blue."
+        }
+    },
+    "ta": {
+        "symbol": "た",
+        "romaji": "ta",
+        "strokes": 4,
+        "example": {
+            "word": "たまご",
+            "word_meaning": "egg",
+            "sentence": "たまごをわりました。",
+            "translation": "I broke the egg."
+        }
+    },
+    "chi": {
+        "symbol": "ち",
+        "romaji": "chi",
+        "strokes": 3,
+        "example": {
+            "word": "ちず",
+            "word_meaning": "map",
+            "sentence": "ちずをみます。",
+            "translation": "I look at the map."
+        }
+    },
+    "tsu": {
+        "symbol": "つ",
+        "romaji": "tsu",
+        "strokes": 1,
+        "example": {
+            "word": "つき",
+            "word_meaning": "moon",
+            "sentence": "つきがきれいです。",
+            "translation": "The moon is beautiful."
+        }
+    },
+    "te": {
+        "symbol": "て",
+        "romaji": "te",
+        "strokes": 2,
+        "example": {
+            "word": "てがみ",
+            "word_meaning": "letter",
+            "sentence": "てがみをかきます。",
+            "translation": "I write a letter."
+        }
+    },
+    "to": {
+        "symbol": "と",
+        "romaji": "to",
+        "strokes": 2,
+        "example": {
+            "word": "とり",
+            "word_meaning": "bird",
+            "sentence": "とりがとんでいます。",
+            "translation": "A bird is flying."
+        }
+    },
+    "na": {
+        "symbol": "な",
+        "romaji": "na",
+        "strokes": 1,
+        "example": {
+            "word": "なつ",
+            "word_meaning": "summer",
+            "sentence": "なつはあついです。",
+            "translation": "Summer is hot."
+        }
+    },
+    "ni": {
+        "symbol": "に",
+        "romaji": "ni",
+        "strokes": 2,
+        "example": {
+            "word": "にく",
+            "word_meaning": "meat",
+            "sentence": "にくをたべます。",
+            "translation": "I eat meat."
+        }
+    },
+    "nu": {
+        "symbol": "ぬ",
+        "romaji": "nu",
+        "strokes": 2,
+        "example": {
+            "word": "ぬの",
+            "word_meaning": "cloth",
+            "sentence": "ぬのをかいます。",
+            "translation": "I buy cloth."
+        }
+    },
+    "ne": {
+        "symbol": "ね",
+        "romaji": "ne",
+        "strokes": 1,
+        "example": {
+            "word": "ねこ",
+            "word_meaning": "cat",
+            "sentence": "ねこがいます。",
+            "translation": "There is a cat."
+        }
+    },
+    "no": {
+        "symbol": "の",
+        "romaji": "no",
+        "strokes": 1,
+        "example": {
+            "word": "のり",
+            "word_meaning": "glue / seaweed",
+            "sentence": "のりをつかいます。",
+            "translation": "I use glue."
+        }
+    },
+    "ha": {
+        "symbol": "は",
+        "romaji": "ha",
+        "strokes": 3,
+        "example": {
+            "word": "はな",
+            "word_meaning": "flower / nose",
+            "sentence": "はながさきました。",
+            "translation": "The flower bloomed."
+        }
+    },
+    "hi": {
+        "symbol": "ひ",
+        "romaji": "hi",
+        "strokes": 2,
+        "example": {
+            "word": "ひと",
+            "word_meaning": "person",
+            "sentence": "ひとがいます。",
+            "translation": "There is a person."
+        }
+    },
+    "fu": {
+        "symbol": "ふ",
+        "romaji": "fu",
+        "strokes": 4,
+        "example": {
+            "word": "ふね",
+            "word_meaning": "boat",
+            "sentence": "ふねがうみをすすんでいます。",
+            "translation": "The boat is sailing in the sea."
+        }
+    },
+    "he": {
+        "symbol": "へ",
+        "romaji": "he",
+        "strokes": 1,
+        "example": {
+            "word": "へや",
+            "word_meaning": "room",
+            "sentence": "へやにいます。",
+            "translation": "I am in the room."
+        }
+    },
+    "ho": {
+        "symbol": "ほ",
+        "romaji": "ho",
+        "strokes": 4,
+        "example": {
+            "word": "ほし",
+            "word_meaning": "star",
+            "sentence": "ほしがみえます。",
+            "translation": "I can see the stars."
+        }
+    },
+    "ma": {
+        "symbol": "ま",
+        "romaji": "ma",
+        "strokes": 3,
+        "example": {
+            "word": "まど",
+            "word_meaning": "window",
+            "sentence": "まどをあけます。",
+            "translation": "I open the window."
+        }
+    },
+    "mi": {
+        "symbol": "み",
+        "romaji": "mi",
+        "strokes": 2,
+        "example": {
+            "word": "みず",
+            "word_meaning": "water",
+            "sentence": "みずをのみます。",
+            "translation": "I drink water."
+        }
+    },
+    "mu": {
+        "symbol": "む",
+        "romaji": "mu",
+        "strokes": 2,
+        "example": {
+            "word": "むし",
+            "word_meaning": "insect",
+            "sentence": "むしがいます。",
+            "translation": "There is an insect."
+        }
+    },
+    "me": {
+        "symbol": "め",
+        "romaji": "me",
+        "strokes": 2,
+        "example": {
+            "word": "め",
+            "word_meaning": "eye",
+            "sentence": "めをあけます。",
+            "translation": "I open my eyes."
+        }
+    },
+    "mo": {
+        "symbol": "も",
+        "romaji": "mo",
+        "strokes": 3,
+        "example": {
+            "word": "もり",
+            "word_meaning": "forest",
+            "sentence": "もりにいきます。",
+            "translation": "I go to the forest."
+        }
+    },
+    "ya": {
+        "symbol": "や",
+        "romaji": "ya",
+        "strokes": 3,
+        "example": {
+            "word": "やま",
+            "word_meaning": "mountain",
+            "sentence": "やまにのぼります。",
+            "translation": "I climb the mountain."
+        }
+    },
+    "yu": {
+        "symbol": "ゆ",
+        "romaji": "yu",
+        "strokes": 2,
+        "example": {
+            "word": "ゆき",
+            "word_meaning": "snow",
+            "sentence": "ゆきがふっています。",
+            "translation": "It is snowing."
+        }
+    },
+    "yo": {
+        "symbol": "よ",
+        "romaji": "yo",
+        "strokes": 3,
+        "example": {
+            "word": "よる",
+            "word_meaning": "night",
+            "sentence": "よるはくらいです。",
+            "translation": "Night is dark."
+        }
+    },
+    "ra": {
+        "symbol": "ら",
+        "romaji": "ra",
+        "strokes": 2,
+        "example": {
+            "word": "らいおん",
+            "word_meaning": "lion",
+            "sentence": "らいおんがいます。",
+            "translation": "There is a lion."
+        }
+    },
+    "ri": {
+        "symbol": "り",
+        "romaji": "ri",
+        "strokes": 2,
+        "example": {
+            "word": "りんご",
+            "word_meaning": "apple",
+            "sentence": "りんごをたべます。",
+            "translation": "I eat an apple."
+        }
+    },
+    "ru": {
+        "symbol": "る",
+        "romaji": "ru",
+        "strokes": 1,
+        "example": {
+            "word": "るす",
+            "word_meaning": "absence",
+            "sentence": "かれはるすです。",
+            "translation": "He is absent."
+        }
+    },
+    "re": {
+        "symbol": "れ",
+        "romaji": "re",
+        "strokes": 2,
+        "example": {
+            "word": "れいぞうこ",
+            "word_meaning": "refrigerator",
+            "sentence": "れいぞうこにいれます。",
+            "translation": "I put it in the refrigerator."
+        }
+    },
+    "ro": {
+        "symbol": "ろ",
+        "romaji": "ro",
+        "strokes": 2,
+        "example": {
+            "word": "ろうそく",
+            "word_meaning": "candle",
+            "sentence": "ろうそくをつけます。",
+            "translation": "I light the candle."
+        }
+    },
+    "wa": {
+        "symbol": "わ",
+        "romaji": "wa",
+        "strokes": 2,
+        "example": {
+            "word": "わに",
+            "word_meaning": "crocodile",
+            "sentence": "わにがいます。",
+            "translation": "There is a crocodile."
+        }
+    },
+    "wo": {
+        "symbol": "を",
+        "romaji": "wo",
+        "strokes": 3,
+        "example": {
+            "word": "りんごをたべます",
+            "word_meaning": "eat an apple",
+            "sentence": "りんごをたべます。",
+            "translation": "I eat an apple."
+        }
+    },
+    "n": {
+        "symbol": "ん",
+        "romaji": "n",
+        "strokes": 1,
+        "example": {
+            "word": "ほん",
+            "word_meaning": "book",
+            "sentence": "ほんをよみます。",
+            "translation": "I read a book."
+        }
+    }
+}

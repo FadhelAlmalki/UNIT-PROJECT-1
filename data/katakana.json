@@ -1,0 +1,508 @@
+{
+    "a": {
+        "symbol": "ア",
+        "romaji": "a",
+        "strokes": 2,
+        "example": {
+            "word": "アイス",
+            "word_meaning": "ice cream",
+            "sentence": "アイスをたべます。",
+            "translation": "I eat ice cream."
+        }
+    },
+    "i": {
+        "symbol": "イ",
+        "romaji": "i",
+        "strokes": 2,
+        "example": {
+            "word": "イギリス",
+            "word_meaning": "United Kingdom",
+            "sentence": "イギリスにいきたいです。",
+            "translation": "I want to go to the UK."
+        }
+    },
+    "u": {
+        "symbol": "ウ",
+        "romaji": "u",
+        "strokes": 2,
+        "example": {
+            "word": "ウィンドウ",
+            "word_meaning": "window",
+            "sentence": "ウィンドウをあけます。",
+            "translation": "I open the window."
+        }
+    },
+    "e": {
+        "symbol": "エ",
+        "romaji": "e",
+        "strokes": 3,
+        "example": {
+            "word": "エレベーター",
+            "word_meaning": "elevator",
+            "sentence": "エレベーターにのります。",
+            "translation": "I get on the elevator."
+        }
+    },
+    "o": {
+        "symbol": "オ",
+        "romaji": "o",
+        "strokes": 3,
+        "example": {
+            "word": "オレンジ",
+            "word_meaning": "orange",
+            "sentence": "オレンジをたべます。",
+            "translation": "I eat an orange."
+        }
+    },
+    "ka": {
+        "symbol": "カ",
+        "romaji": "ka",
+        "strokes": 2,
+        "example": {
+            "word": "カメラ",
+            "word_meaning": "camera",
+            "sentence": "カメラでしゃしんをとります。",
+            "translation": "I take a picture with the camera."
+        }
+    },
+    "ki": {
+        "symbol": "キ",
+        "romaji": "ki",
+        "strokes": 3,
+        "example": {
+            "word": "キウイ",
+            "word_meaning": "kiwi (fruit)",
+            "sentence": "キウイをたべます。",
+            "translation": "I eat a kiwi."
+        }
+    },
+    "ku": {
+        "symbol": "ク",
+        "romaji": "ku",
+        "strokes": 2,
+        "example": {
+            "word": "クッキー",
+            "word_meaning": "cookie",
+            "sentence": "クッキーをたべます。",
+            "translation": "I eat a cookie."
+        }
+    },
+    "ke": {
+        "symbol": "ケ",
+        "romaji": "ke",
+        "strokes": 3,
+        "example": {
+            "word": "ケーキ",
+            "word_meaning": "cake",
+            "sentence": "ケーキをつくります。",
+            "translation": "I make a cake."
+        }
+    },
+    "ko": {
+        "symbol": "コ",
+        "romaji": "ko",
+        "strokes": 2,
+        "example": {
+            "word": "コーヒー",
+            "word_meaning": "coffee",
+            "sentence": "コーヒーをのみます。",
+            "translation": "I drink coffee."
+        }
+    },
+    "sa": {
+        "symbol": "サ",
+        "romaji": "sa",
+        "strokes": 3,
+        "example": {
+            "word": "サラダ",
+            "word_meaning": "salad",
+            "sentence": "サラダをたべます。",
+            "translation": "I eat a salad."
+        }
+    },
+    "shi": {
+        "symbol": "シ",
+        "romaji": "shi",
+        "strokes": 1,
+        "example": {
+            "word": "シャツ",
+            "word_meaning": "shirt",
+            "sentence": "シャツをきます。",
+            "translation": "I wear a shirt."
+        }
+    },
+    "su": {
+        "symbol": "ス",
+        "romaji": "su",
+        "strokes": 2,
+        "example": {
+            "word": "スーパー",
+            "word_meaning": "supermarket",
+            "sentence": "スーパーでかいものをします。",
+            "translation": "I shop at the supermarket."
+        }
+    },
+    "se": {
+        "symbol": "セ",
+        "romaji": "se",
+        "strokes": 2,
+        "example": {
+            "word": "セーター",
+            "word_meaning": "sweater",
+            "sentence": "セーターをきます。",
+            "translation": "I wear a sweater."
+        }
+    },
+    "so": {
+        "symbol": "ソ",
+        "romaji": "so",
+        "strokes": 2,
+        "example": {
+            "word": "ソファ",
+            "word_meaning": "sofa",
+            "sentence": "ソファにすわります。",
+            "translation": "I sit on the sofa."
+        }
+    },
+    "ta": {
+        "symbol": "タ",
+        "romaji": "ta",
+        "strokes": 4,
+        "example": {
+            "word": "タクシー",
+            "word_meaning": "taxi",
+            "sentence": "タクシーにのります。",
+            "translation": "I get on a taxi."
+        }
+    },
+    "chi": {
+        "symbol": "チ",
+        "romaji": "chi",
+        "strokes": 3,
+        "example": {
+            "word": "チーズ",
+            "word_meaning": "cheese",
+            "sentence": "チーズをたべます。",
+            "translation": "I eat cheese."
+        }
+    },
+    "tsu": {
+        "symbol": "ツ",
+        "romaji": "tsu",
+        "strokes": 2,
+        "example": {
+            "word": "ツアー",
+            "word_meaning": "tour",
+            "sentence": "ツアーにさんかします。",
+            "translation": "I join a tour."
+        }
+    },
+    "te": {
+        "symbol": "テ",
+        "romaji": "te",
+        "strokes": 2,
+        "example": {
+            "word": "テレビ",
+            "word_meaning": "TV",
+            "sentence": "テレビをみます。",
+            "translation": "I watch TV."
+        }
+    },
+    "to": {
+        "symbol": "ト",
+        "romaji": "to",
+        "strokes": 2,
+        "example": {
+            "word": "トマト",
+            "word_meaning": "tomato",
+            "sentence": "トマトをたべます。",
+            "translation": "I eat a tomato."
+        }
+    },
+    "na": {
+        "symbol": "ナ",
+        "romaji": "na",
+        "strokes": 1,
+        "example": {
+            "word": "ナイフ",
+            "word_meaning": "knife",
+            "sentence": "ナイフをつかいます。",
+            "translation": "I use a knife."
+        }
+    },
+    "ni": {
+        "symbol": "ニ",
+        "romaji": "ni",
+        "strokes": 2,
+        "example": {
+            "word": "ニュース",
+            "word_meaning": "news",
+            "sentence": "ニュースをみます。",
+            "translation": "I watch the news."
+        }
+    },
+    "nu": {
+        "symbol": "ヌ",
+        "romaji": "nu",
+        "strokes": 2,
+        "example": {
+            "word": "ヌードル",
+            "word_meaning": "noodles",
+            "sentence": "ヌードルをたべます。",
+            "translation": "I eat noodles."
+        }
+    },
+    "ne": {
+        "symbol": "ネ",
+        "romaji": "ne",
+        "strokes": 1,
+        "example": {
+            "word": "ネクタイ",
+            "word_meaning": "neck tie",
+            "sentence": "ネクタイをします。",
+            "translation": "I wear a tie."
+        }
+    },
+    "no": {
+        "symbol": "ノ",
+        "romaji": "no",
+        "strokes": 1,
+        "example": {
+            "word": "ノート",
+            "word_meaning": "notebook",
+            "sentence": "ノートにかきます。",
+            "translation": "I write in the notebook."
+        }
+    },
+    "ha": {
+        "symbol": "ハ",
+        "romaji": "ha",
+        "strokes": 3,
+        "example": {
+            "word": "ハンバーガー",
+            "word_meaning": "hamburger",
+            "sentence": "ハンバーガーをたべます。",
+            "translation": "I eat a hamburger."
+        }
+    },
+    "hi": {
+        "symbol": "ヒ",
+        "romaji": "hi",
+        "strokes": 2,
+        "example": {
+            "word": "ヒーター",
+            "word_meaning": "heater",
+            "sentence": "ヒーターをつけます。",
+            "translation": "I turn on the heater."
+        }
+    },
+    "fu": {
+        "symbol": "フ",
+        "romaji": "fu",
+        "strokes": 4,
+        "example": {
+            "word": "フルーツ",
+            "word_meaning": "fruit",
+            "sentence": "フルーツをたべます。",
+            "translation": "I eat fruit."
+        }
+    },
+    "he": {
+        "symbol": "ヘ",
+        "romaji": "he",
+        "strokes": 1,
+        "example": {
+            "word": "ヘリコプター",
+            "word_meaning": "helicopter",
+            "sentence": "ヘリコプターをみます。",
+            "translation": "I watch a helicopter."
+        }
+    },
+    "ho": {
+        "symbol": "ホ",
+        "romaji": "ho",
+        "strokes": 4,
+        "example": {
+            "word": "ホテル",
+            "word_meaning": "hotel",
+            "sentence": "ホテルにとまります。",
+            "translation": "I stay at a hotel."
+        }
+    },
+    "ma": {
+        "symbol": "マ",
+        "romaji": "ma",
+        "strokes": 3,
+        "example": {
+            "word": "マスク",
+            "word_meaning": "mask",
+            "sentence": "マスクをします。",
+            "translation": "I wear a mask."
+        }
+    },
+    "mi": {
+        "symbol": "ミ",
+        "romaji": "mi",
+        "strokes": 2,
+        "example": {
+            "word": "ミルク",
+            "word_meaning": "milk",
+            "sentence": "ミルクをのみます。",
+            "translation": "I drink milk."
+        }
+    },
+    "mu": {
+        "symbol": "ム",
+        "romaji": "mu",
+        "strokes": 2,
+        "example": {
+            "word": "ムース",
+            "word_meaning": "mousse",
+            "sentence": "ムースをたべます。",
+            "translation": "I eat mousse."
+        }
+    },
+    "me": {
+        "symbol": "メ",
+        "romaji": "me",
+        "strokes": 2,
+        "example": {
+            "word": "メロン",
+            "word_meaning": "melon",
+            "sentence": "メロンをたべます。",
+            "translation": "I eat a melon."
+        }
+    },
+    "mo": {
+        "symbol": "モ",
+        "romaji": "mo",
+        "strokes": 3,
+        "example": {
+            "word": "モニター",
+            "word_meaning": "monitor",
+            "sentence": "モニターをみます。",
+            "translation": "I look at the monitor."
+        }
+    },
+    "ya": {
+        "symbol": "ヤ",
+        "romaji": "ya",
+        "strokes": 3,
+        "example": {
+            "word": "ヤング",
+            "word_meaning": "young",
+            "sentence": "ヤングなひとです。",
+            "translation": "He is a young person."
+        }
+    },
+    "yu": {
+        "symbol": "ユ",
+        "romaji": "yu",
+        "strokes": 2,
+        "example": {
+            "word": "ユニフォーム",
+            "word_meaning": "uniform",
+            "sentence": "ユニフォームをきます。",
+            "translation": "I wear a uniform."
+        }
+    },
+    "yo": {
+        "symbol": "ヨ",
+        "romaji": "yo",
+        "strokes": 3,
+        "example": {
+            "word": "ヨーグルト",
+            "word_meaning": "yogurt",
+            "sentence": "ヨーグルトをたべます。",
+            "translation": "I eat yogurt."
+        }
+    },
+    "ra": {
+        "symbol": "ラ",
+        "romaji": "ra",
+        "strokes": 2,
+        "example": {
+            "word": "ラジオ",
+            "word_meaning": "radio",
+            "sentence": "ラジオをききます。",
+            "translation": "I listen to the radio."
+        }
+    },
+    "ri": {
+        "symbol": "リ",
+        "romaji": "ri",
+        "strokes": 2,
+        "example": {
+            "word": "リンゴ",
+            "word_meaning": "apple",
+            "sentence": "リンゴをたべます。",
+            "translation": "I eat an apple."
+        }
+    },
+    "ru": {
+        "symbol": "ル",
+        "romaji": "ru",
+        "strokes": 1,
+        "example": {
+            "word": "ルビー",
+            "word_meaning": "ruby",
+            "sentence": "ルビーはあかいです。",
+            "translation": "The ruby is red."
+        }
+    },
+    "re": {
+        "symbol": "レ",
+        "romaji": "re",
+        "strokes": 2,
+        "example": {
+            "word": "レストラン",
+            "word_meaning": "restaurant",
+            "sentence": "レストランでたべます。",
+            "translation": "I eat at the restaurant."
+        }
+    },
+    "ro": {
+        "symbol": "ロ",
+        "romaji": "ro",
+        "strokes": 2,
+        "example": {
+            "word": "ロボット",
+            "word_meaning": "robot",
+            "sentence": "ロボットがうごきます。",
+            "translation": "The robot moves."
+        }
+    },
+    "wa": {
+        "symbol": "ワ",
+        "romaji": "wa",
+        "strokes": 2,
+        "example": {
+            "word": "ワイン",
+            "word_meaning": "wine",
+            "sentence": "ワインをのみます。",
+            "translation": "I drink wine."
+        }
+    },
+    "wo": {
+        "symbol": "ヲ",
+        "romaji": "wo",
+        "strokes": 3,
+        "example": {
+            "word": "ヲタク",
+            "word_meaning": "otaku",
+            "sentence": "かれはヲタクです。",
+            "translation": "He is an otaku."
+        }
+    },
+    "n": {
+        "symbol": "ン",
+        "romaji": "n",
+        "strokes": 1,
+        "example": {
+            "word": "コンピュータ",
+            "word_meaning": "computer",
+            "sentence": "コンピュータをつかいます。",
+            "translation": "I use a computer."
+        }
+    }
+}
