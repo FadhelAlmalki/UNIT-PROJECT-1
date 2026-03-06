@@ -1,6 +1,8 @@
-def display_katakana_chart():
-    pass
+from characters.kana import Kana
 
-def search_katakana_by_romaji():
-    pass
+class Katakana(Kana):
+    '''Class for Katakana characters'''
+
+    #def __init__(self, symbol, romaji, strokes, example):
+    #    super().__init__(symbol, romaji, strokes, example)
 
