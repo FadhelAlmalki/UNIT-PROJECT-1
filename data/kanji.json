@@ -1,5 +1,5 @@
 {
-    "1": {
+    "01": {
         "symbol": "日",
         "onyomi": "ニチ, ジツ",
         "kunyomi": "ひ, -び, -か",
@@ -12,7 +12,7 @@
             "translation": "Today is good weather."
         }
     },
-    "2": {
+    "02": {
         "symbol": "一",
         "onyomi": "イチ, イツ",
         "kunyomi": "ひと-",
@@ -25,7 +25,7 @@
             "translation": "Please give me one apple."
         }
     },
-    "3": {
+    "03": {
         "symbol": "人",
         "onyomi": "ジン, ニン",
         "kunyomi": "ひと",
@@ -38,7 +38,7 @@
             "translation": "That person is a teacher."
         }
     },
-    "4": {
+    "04": {
         "symbol": "大",
         "onyomi": "ダイ, タイ",
         "kunyomi": "おお-",
@@ -51,7 +51,7 @@
             "translation": "I go to university."
         }
     },
-    "5": {
+    "05": {
         "symbol": "年",
         "onyomi": "ネン",
         "kunyomi": "とし",
@@ -64,20 +64,20 @@
             "translation": "This year is busy."
         }
     },
-    "6": {
+    "06": {
         "symbol": "本",
         "onyomi": "ホン",
         "kunyomi": "もと",
         "meaning": "book, origin",
         "strokes": 5,
         "example": {
-            "word": "本を読みます",
-            "word_meaning": "read a book",
+            "word": "本",
+            "word_meaning": "book",
             "sentence": "毎日本を読みます。",
             "translation": "I read books every day."
         }
     },
-    "7": {
+    "07": {
         "symbol": "中",
         "onyomi": "チュウ",
         "kunyomi": "なか",
@@ -90,7 +90,7 @@
             "translation": "I study Chinese."
         }
     },
-    "8": {
+    "08": {
         "symbol": "長",
         "onyomi": "チョウ",
         "kunyomi": "なが-い",
@@ -103,9 +103,9 @@
             "translation": "I meet the school principal."
         }
     },
-    "9": {
+    "09": {
         "symbol": "出",
-        "onyomi": "シュツ, スイ",
+        "onyomi": "シュツ",
         "kunyomi": "で-る, だ-す",
         "meaning": "exit, go out",
         "strokes": 5,
@@ -131,13 +131,13 @@
     },
     "11": {
         "symbol": "気",
-        "onyomi": "キ, ケ",
+        "onyomi": "キ",
         "kunyomi": "",
-        "meaning": "spirit, air, mood",
+        "meaning": "spirit, mood",
         "strokes": 6,
         "example": {
             "word": "元気",
-            "word_meaning": "healthy, energetic",
+            "word_meaning": "healthy",
             "sentence": "元気ですか？",
             "translation": "How are you?"
         }
@@ -146,20 +146,20 @@
         "symbol": "見",
         "onyomi": "ケン",
         "kunyomi": "み-る",
-        "meaning": "see, look",
+        "meaning": "see",
         "strokes": 7,
         "example": {
             "word": "見ます",
-            "word_meaning": "to see, watch",
+            "word_meaning": "to see",
             "sentence": "映画を見ます。",
             "translation": "I watch a movie."
         }
     },
     "13": {
         "symbol": "行",
-        "onyomi": "コウ, ギョウ",
-        "kunyomi": "い-く, おこな-う",
-        "meaning": "go, conduct",
+        "onyomi": "コウ",
+        "kunyomi": "い-く",
+        "meaning": "go",
         "strokes": 6,
         "example": {
             "word": "行きます",
@@ -170,9 +170,9 @@
     },
     "14": {
         "symbol": "食",
-        "onyomi": "ショク, ジキ",
-        "kunyomi": "た-べる, く-う",
-        "meaning": "eat, food",
+        "onyomi": "ショク",
+        "kunyomi": "た-べる",
+        "meaning": "eat",
         "strokes": 9,
         "example": {
             "word": "食べます",
@@ -184,7 +184,7 @@
     "15": {
         "symbol": "小",
         "onyomi": "ショウ",
-        "kunyomi": "ちい-さい, こ-",
+        "kunyomi": "ちい-さい",
         "meaning": "small",
         "strokes": 3,
         "example": {
@@ -196,9 +196,9 @@
     },
     "16": {
         "symbol": "上",
-        "onyomi": "ジョウ, ショウ",
-        "kunyomi": "うえ, あ-がる",
-        "meaning": "above, up",
+        "onyomi": "ジョウ",
+        "kunyomi": "うえ",
+        "meaning": "up, above",
         "strokes": 3,
         "example": {
             "word": "上手",
@@ -209,9 +209,9 @@
     },
     "17": {
         "symbol": "下",
-        "onyomi": "カ, ゲ",
-        "kunyomi": "した, さ-がる",
-        "meaning": "below, down",
+        "onyomi": "カ",
+        "kunyomi": "した",
+        "meaning": "down, below",
         "strokes": 3,
         "example": {
             "word": "地下",
@@ -222,9 +222,9 @@
     },
     "18": {
         "symbol": "力",
-        "onyomi": "リョク, リキ",
+        "onyomi": "リョク",
         "kunyomi": "ちから",
-        "meaning": "power, strength",
+        "meaning": "power",
         "strokes": 2,
         "example": {
             "word": "力持ち",
@@ -236,8 +236,8 @@
     "19": {
         "symbol": "天",
         "onyomi": "テン",
-        "kunyomi": "あまつ, あめ",
-        "meaning": "heaven, sky",
+        "kunyomi": "あめ",
+        "meaning": "sky",
         "strokes": 4,
         "example": {
             "word": "天気",
@@ -247,16 +247,406 @@
         }
     },
     "20": {
-        "symbol": "見",
-        "onyomi": "ケン",
-        "kunyomi": "み-る",
-        "meaning": "see, look",
+        "symbol": "山",
+        "onyomi": "サン",
+        "kunyomi": "やま",
+        "meaning": "mountain",
+        "strokes": 3,
+        "example": {
+            "word": "富士山",
+            "word_meaning": "Mt. Fuji",
+            "sentence": "富士山は高いです。",
+            "translation": "Mt. Fuji is tall."
+        }
+    },
+    "21": {
+        "symbol": "川",
+        "onyomi": "セン",
+        "kunyomi": "かわ",
+        "meaning": "river",
+        "strokes": 3,
+        "example": {
+            "word": "川",
+            "word_meaning": "river",
+            "sentence": "川で魚を見ます。",
+            "translation": "I see fish in the river."
+        }
+    },
+    "22": {
+        "symbol": "水",
+        "onyomi": "スイ",
+        "kunyomi": "みず",
+        "meaning": "water",
+        "strokes": 4,
+        "example": {
+            "word": "水",
+            "word_meaning": "water",
+            "sentence": "水を飲みます。",
+            "translation": "I drink water."
+        }
+    },
+    "23": {
+        "symbol": "火",
+        "onyomi": "カ",
+        "kunyomi": "ひ",
+        "meaning": "fire",
+        "strokes": 4,
+        "example": {
+            "word": "火山",
+            "word_meaning": "volcano",
+            "sentence": "火は危ないです。",
+            "translation": "Fire is dangerous."
+        }
+    },
+    "24": {
+        "symbol": "木",
+        "onyomi": "モク",
+        "kunyomi": "き",
+        "meaning": "tree",
+        "strokes": 4,
+        "example": {
+            "word": "木",
+            "word_meaning": "tree",
+            "sentence": "大きい木があります。",
+            "translation": "There is a big tree."
+        }
+    },
+    "25": {
+        "symbol": "金",
+        "onyomi": "キン",
+        "kunyomi": "かね",
+        "meaning": "gold, money",
+        "strokes": 8,
+        "example": {
+            "word": "お金",
+            "word_meaning": "money",
+            "sentence": "お金がありません。",
+            "translation": "I have no money."
+        }
+    },
+    "26": {
+        "symbol": "土",
+        "onyomi": "ド",
+        "kunyomi": "つち",
+        "meaning": "earth",
+        "strokes": 3,
+        "example": {
+            "word": "土",
+            "word_meaning": "soil",
+            "sentence": "土を触ります。",
+            "translation": "I touch the soil."
+        }
+    },
+    "27": {
+        "symbol": "月",
+        "onyomi": "ゲツ",
+        "kunyomi": "つき",
+        "meaning": "moon",
+        "strokes": 4,
+        "example": {
+            "word": "月",
+            "word_meaning": "moon",
+            "sentence": "月がきれいです。",
+            "translation": "The moon is beautiful."
+        }
+    },
+    "28": {
+        "symbol": "空",
+        "onyomi": "クウ",
+        "kunyomi": "そら",
+        "meaning": "sky",
+        "strokes": 8,
+        "example": {
+            "word": "空",
+            "word_meaning": "sky",
+            "sentence": "空が青いです。",
+            "translation": "The sky is blue."
+        }
+    },
+    "29": {
+        "symbol": "雨",
+        "onyomi": "ウ",
+        "kunyomi": "あめ",
+        "meaning": "rain",
+        "strokes": 8,
+        "example": {
+            "word": "雨",
+            "word_meaning": "rain",
+            "sentence": "今日は雨です。",
+            "translation": "Today it is raining."
+        }
+    },
+    "30": {
+        "symbol": "車",
+        "onyomi": "シャ",
+        "kunyomi": "くるま",
+        "meaning": "car",
         "strokes": 7,
         "example": {
-            "word": "見ます",
-            "word_meaning": "to see",
-            "sentence": "映画を見ます。",
-            "translation": "I watch a movie."
+            "word": "車",
+            "word_meaning": "car",
+            "sentence": "車を運転します。",
+            "translation": "I drive a car."
+        }
+    },
+    "31": {
+        "symbol": "駅",
+        "onyomi": "エキ",
+        "kunyomi": "",
+        "meaning": "station",
+        "strokes": 14,
+        "example": {
+            "word": "駅",
+            "word_meaning": "station",
+            "sentence": "駅に行きます。",
+            "translation": "I go to the station."
+        }
+    },
+    "32": {
+        "symbol": "電",
+        "onyomi": "デン",
+        "kunyomi": "",
+        "meaning": "electricity",
+        "strokes": 13,
+        "example": {
+            "word": "電車",
+            "word_meaning": "train",
+            "sentence": "電車に乗ります。",
+            "translation": "I ride the train."
+        }
+    },
+    "33": {
+        "symbol": "校",
+        "onyomi": "コウ",
+        "kunyomi": "",
+        "meaning": "school",
+        "strokes": 10,
+        "example": {
+            "word": "学校",
+            "word_meaning": "school",
+            "sentence": "学校は楽しいです。",
+            "translation": "School is fun."
+        }
+    },
+    "34": {
+        "symbol": "先",
+        "onyomi": "セン",
+        "kunyomi": "さき",
+        "meaning": "previous",
+        "strokes": 6,
+        "example": {
+            "word": "先生",
+            "word_meaning": "teacher",
+            "sentence": "先生に聞きます。",
+            "translation": "I ask the teacher."
+        }
+    },
+    "35": {
+        "symbol": "生",
+        "onyomi": "セイ",
+        "kunyomi": "い-きる",
+        "meaning": "life",
+        "strokes": 5,
+        "example": {
+            "word": "学生",
+            "word_meaning": "student",
+            "sentence": "私は学生です。",
+            "translation": "I am a student."
+        }
+    },
+    "36": {
+        "symbol": "学",
+        "onyomi": "ガク",
+        "kunyomi": "まな-ぶ",
+        "meaning": "study",
+        "strokes": 8,
+        "example": {
+            "word": "大学",
+            "word_meaning": "university",
+            "sentence": "大学で勉強します。",
+            "translation": "I study at university."
+        }
+    },
+    "37": {
+        "symbol": "友",
+        "onyomi": "ユウ",
+        "kunyomi": "とも",
+        "meaning": "friend",
+        "strokes": 4,
+        "example": {
+            "word": "友達",
+            "word_meaning": "friend",
+            "sentence": "友達と遊びます。",
+            "translation": "I play with my friend."
+        }
+    },
+    "38": {
+        "symbol": "女",
+        "onyomi": "ジョ",
+        "kunyomi": "おんな",
+        "meaning": "woman",
+        "strokes": 3,
+        "example": {
+            "word": "女性",
+            "word_meaning": "woman",
+            "sentence": "あの女性は優しいです。",
+            "translation": "That woman is kind."
+        }
+    },
+    "39": {
+        "symbol": "男",
+        "onyomi": "ダン",
+        "kunyomi": "おとこ",
+        "meaning": "man",
+        "strokes": 7,
+        "example": {
+            "word": "男性",
+            "word_meaning": "man",
+            "sentence": "あの男性は先生です。",
+            "translation": "That man is a teacher."
+        }
+    },
+    "40": {
+        "symbol": "子",
+        "onyomi": "シ",
+        "kunyomi": "こ",
+        "meaning": "child",
+        "strokes": 3,
+        "example": {
+            "word": "子供",
+            "word_meaning": "child",
+            "sentence": "子供が遊びます。",
+            "translation": "Children play."
+        }
+    },
+    "41": {
+        "symbol": "時",
+        "onyomi": "ジ",
+        "kunyomi": "とき",
+        "meaning": "time",
+        "strokes": 10,
+        "example": {
+            "word": "時間",
+            "word_meaning": "time",
+            "sentence": "時間があります。",
+            "translation": "I have time."
+        }
+    },
+    "42": {
+        "symbol": "分",
+        "onyomi": "ブン",
+        "kunyomi": "わ-かる",
+        "meaning": "minute",
+        "strokes": 4,
+        "example": {
+            "word": "十分",
+            "word_meaning": "ten minutes",
+            "sentence": "十分待ちます。",
+            "translation": "I wait ten minutes."
+        }
+    },
+    "43": {
+        "symbol": "半",
+        "onyomi": "ハン",
+        "kunyomi": "なか-ば",
+        "meaning": "half",
+        "strokes": 5,
+        "example": {
+            "word": "半分",
+            "word_meaning": "half",
+            "sentence": "ケーキを半分食べます。",
+            "translation": "I eat half the cake."
+        }
+    },
+    "44": {
+        "symbol": "百",
+        "onyomi": "ヒャク",
+        "kunyomi": "",
+        "meaning": "hundred",
+        "strokes": 6,
+        "example": {
+            "word": "百円",
+            "word_meaning": "100 yen",
+            "sentence": "百円あります。",
+            "translation": "I have 100 yen."
+        }
+    },
+    "45": {
+        "symbol": "千",
+        "onyomi": "セン",
+        "kunyomi": "",
+        "meaning": "thousand",
+        "strokes": 3,
+        "example": {
+            "word": "千円",
+            "word_meaning": "1000 yen",
+            "sentence": "千円ください。",
+            "translation": "Please give me 1000 yen."
+        }
+    },
+    "46": {
+        "symbol": "万",
+        "onyomi": "マン",
+        "kunyomi": "",
+        "meaning": "ten thousand",
+        "strokes": 3,
+        "example": {
+            "word": "一万円",
+            "word_meaning": "10,000 yen",
+            "sentence": "一万円あります。",
+            "translation": "I have 10,000 yen."
+        }
+    },
+    "47": {
+        "symbol": "店",
+        "onyomi": "テン",
+        "kunyomi": "みせ",
+        "meaning": "shop",
+        "strokes": 8,
+        "example": {
+            "word": "店",
+            "word_meaning": "shop",
+            "sentence": "店に入ります。",
+            "translation": "I enter the shop."
+        }
+    },
+    "48": {
+        "symbol": "買",
+        "onyomi": "バイ",
+        "kunyomi": "か-う",
+        "meaning": "buy",
+        "strokes": 12,
+        "example": {
+            "word": "買います",
+            "word_meaning": "to buy",
+            "sentence": "本を買います。",
+            "translation": "I buy a book."
+        }
+    },
+    "49": {
+        "symbol": "読",
+        "onyomi": "ドク",
+        "kunyomi": "よ-む",
+        "meaning": "read",
+        "strokes": 14,
+        "example": {
+            "word": "読みます",
+            "word_meaning": "to read",
+            "sentence": "新聞を読みます。",
+            "translation": "I read the newspaper."
+        }
+    },
+    "50": {
+        "symbol": "書",
+        "onyomi": "ショ",
+        "kunyomi": "か-く",
+        "meaning": "write",
+        "strokes": 10,
+        "example": {
+            "word": "書きます",
+            "word_meaning": "to write",
+            "sentence": "手紙を書きます。",
+            "translation": "I write a letter."
         }
     }
 }
