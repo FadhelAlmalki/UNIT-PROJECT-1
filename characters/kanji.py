@@ -9,6 +9,7 @@ class Kanji(Character):
         self.kunyomi = kunyomi
         self.meaning = meaning
 
-    def search_kanji_by_number(self, number):
+    @classmethod
+    def search_kanji_by_number(cls, number):
         pass
 
