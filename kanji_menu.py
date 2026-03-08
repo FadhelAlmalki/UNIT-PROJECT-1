@@ -2,7 +2,7 @@ from colorama import Fore
 from characters.kanji import Kanji
 
 def get_kanji_menu():
-    kanji = Kanji(None, None, None, None, None, None)
+    #kanji = Kanji(None, None, None, None, None, None)
 
     while True:
         print()
@@ -15,9 +15,9 @@ def get_kanji_menu():
         print()
 
         if choice == 'a':
-            kanji.display_characters_chart("data/kanji.json")
+            Kanji.display_characters_chart("data/kanji.json")
         elif choice == 'b':
-            kanji.search_kanji_by_number()
+            Kanji.search_kanji_by_number()
         elif choice == 'c':
             break
         else:

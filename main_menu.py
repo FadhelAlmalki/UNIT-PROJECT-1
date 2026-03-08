@@ -12,8 +12,8 @@ from other_features.guide import get_guide
 
 def main_menu():
     while True:
-        print(f"\n{Fore.MAGENTA}=== Main Menu ==={Fore.RESET}")
-        print(f"{Fore.GREEN}1. Practice Hiragana{Fore.RESET}")
+        print(f"\n{Fore.MAGENTA}===+==( Main Menu )==+==={Fore.RESET}")
+        print(f"\n{Fore.GREEN}1. Practice Hiragana{Fore.RESET}")
         print(f"{Fore.GREEN}2. Practice Katakana{Fore.RESET}")
         print(f"{Fore.GREEN}3. Practice Kanji{Fore.RESET}")
         print(f"{Fore.GREEN}4. Random Word{Fore.RESET}")
@@ -23,7 +23,7 @@ def main_menu():
         print(f"{Fore.GREEN}8. Help{Fore.RESET}")
         print(f"{Fore.GREEN}9. Exit{Fore.RESET}")
 
-        choice = input(f"{Fore.YELLOW}Select an option (1-9): {Fore.RESET}")
+        choice = input(f"\n{Fore.YELLOW}Select an option (1-9): {Fore.RESET}")
 
         if choice == '1':
             get_hiragana_menu()
@@ -42,7 +42,7 @@ def main_menu():
         elif choice == '8':
             get_guide()
         elif choice == '9':
-            print(f"{Fore.RED}Exiting the program. Goodbye!{Fore.RESET}")
+            print(f"\n{Fore.RED}Exiting the program. Goodbye!{Fore.RESET}")
             break
         else:
             print(f"{Fore.RED}Invalid choice. Please select a valid option (1-9).{Fore.RESET}")
