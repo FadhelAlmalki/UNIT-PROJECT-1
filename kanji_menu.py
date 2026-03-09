@@ -6,7 +6,7 @@ def get_kanji_menu():
     while True:
         print(f"\n{Fore.MAGENTA}===+==( Kanji Practice Menu )==+==={Fore.RESET}")
         print(f"\n{Fore.GREEN}a. Display Kanji Chart{Fore.RESET}")
-        print(f"{Fore.GREEN}b. Search Kanji Details by Number{Fore.RESET}")
+        print(f"{Fore.GREEN}b. Search Kanji Character Details by Number{Fore.RESET}")
         print(f"{Fore.GREEN}c. Back to Main Menu{Fore.RESET}")
 
         choice = input(f"\n{Fore.YELLOW}Select an option (a-c): {Fore.RESET}").lower()

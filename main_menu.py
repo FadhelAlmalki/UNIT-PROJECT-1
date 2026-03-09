@@ -18,8 +18,8 @@ def main_menu():
         print(f"{Fore.GREEN}2. Practice Katakana{Fore.RESET}")
         print(f"{Fore.GREEN}3. Practice Kanji{Fore.RESET}")
         print(f"{Fore.GREEN}4. Random Word{Fore.RESET}")
-        print(f"{Fore.GREEN}5. Multiple Choice Quiz (correct romaji/meaning Quiz){Fore.RESET}")
-        print(f"{Fore.GREEN}6. Fill-in-the-Blank Quiz (Hiragana & Katakana Romaji Quiz){Fore.RESET}")
+        print(f"{Fore.GREEN}5. Multiple Choice Quiz (Kana romaji){Fore.RESET}")
+        print(f"{Fore.GREEN}6. Fill-in-the-Blank Quiz (Kana romaji){Fore.RESET}")
         print(f"{Fore.GREEN}7. Random Fact / Cultural Insight{Fore.RESET}")
         print(f"{Fore.GREEN}8. Exit{Fore.RESET}")
 

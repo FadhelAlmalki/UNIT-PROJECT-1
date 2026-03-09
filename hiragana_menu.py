@@ -6,7 +6,7 @@ def get_hiragana_menu():
     while True:
         print(f"\n{Fore.MAGENTA}===+==( Hiragana Practice Menu )==+==={Fore.RESET}")
         print(f"\n{Fore.GREEN}a. Display Hiragana Chart{Fore.RESET}")
-        print(f"{Fore.GREEN}b. Search Hiragana Character by Romaji{Fore.RESET}")
+        print(f"{Fore.GREEN}b. Search Hiragana Character Details by Romaji{Fore.RESET}")
         print(f"{Fore.GREEN}c. Back to Main Menu{Fore.RESET}")
         
         choice = input(f"\n{Fore.YELLOW}Select an option (a-c): {Fore.RESET}").lower()
