@@ -1,3 +1,4 @@
+from utils.json_manager import load_json
 from characters.character import Character
 
 class Kanji(Character):
@@ -10,6 +11,23 @@ class Kanji(Character):
         self.meaning = meaning
 
     @classmethod
-    def search_kanji_by_number(cls, number):
-        pass
+    def search_kanji_by_number(cls, number: str, json_path: str):
+        '''Search for a Kanji by number and return a Kanji object'''
+        target = number.strip()
+        kanji_data = load_json(json_path)
+
+        if not isinstance(kanji_data, dict):
+            return None
+
+        for key, item in kanji_data.items():
+            if key.strip() == target:
+                return cls(
+                    symbol=item.get("symbol", ""),
+                    onyomi=item.get("onyomi", ""),
+                    kunyomi=item.get("kunyomi", ""),
+                    meaning=item.get("meaning", ""),
+                    strokes=item.get("strokes", 0),
+                    example=item.get("example", "")
+                )
+        return None
 

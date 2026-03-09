@@ -1,5 +1,5 @@
 from colorama import Fore
-from utils.json_manager import load_json, save_json
+from utils.json_manager import load_json
 
 class Character:
     '''Base class for all Japanese characters'''

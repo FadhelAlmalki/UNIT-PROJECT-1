@@ -1,5 +1,4 @@
-from colorama import Fore
-from utils.json_manager import load_json, save_json
+from utils.json_manager import load_json
 from characters.character import Character
 
 class Kana(Character):
