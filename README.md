@@ -1,44 +1,39 @@
 # UNIT-PROJECT-1
 
+# TerminalSensei –  An Interactive Japanese Learning CLI Application (日本語学習CLIアプリケーション)
 
-## Based on what you’ve learned until now , create a project of your choosing (impress us with your imagination) . This project must at least satisfy the following minimum requirements :
-
-- Must be interactive on CLI.
-- Use your coding skills in Python accurately.
-- Organize Your Code into modules & (or packages)
-- Use git & Github to track changes in your code.
-
-# TerminalSensei –  An Interactive Japanese Learning CLI Application
-
-#### Overview : An online store that sells fruits to customers. This online store has 2 main users. The customer and the manager of the store . Each one of them should be able to do the following tasks for the store to function properly . 
+#### Overview : an interactive Japanese learning CLI application built with Python. It helps users practise **Hiragana**, **Katakana**, and **Kanji** directly from the terminal, and also includes small quiz and discovery features such as random words and cultural facts. 
 
 ### Features & User Stories
-#### As a customer I should be able to do the following :
-- Browse  Products . 
-- View the product info (summary, specs, price, quantity , etc.)
-- Search for Products.
-- Get recommendations for my next purchase based on my purchase history.
-- Add Products to the shopping cart .
-- Remove a product from the shopping cart.
-- List the products in my shopping cart. 
-- Continue to checkout . 
-- Fill in my address for delivery.
-- Get receipt of my purchases.
-- Check delivery status . 
-
-
+#### As a user I should be able to do the following :
+- Display a Hiragana characters chart.
+- Display a Katakana characters chart.
+- Display a Kanji characters chart.
+- Search Hiragana character details by romaji (symbol, romaji, strokes, example).
+- Search Katakana character details by romaji (symbol, romaji, strokes, example).
+- Search Kanji character details by number (symbol, onyomi, kunyomi, meaning, strokes, example).
+- Get a random Japanese word.
+- Take a multiple-choice quiz on kana romaji.
+- Take a fill-in-the-blank quiz for kana romaji.
+- Get a random Japanese fact / cultural insight.
 
 #### Usage :
- Explain to the user how to use your project . 
- for example:
- - type in search product_name to search for a product.
- - type in list_products to show all the products in the grocery.
- - type in show product_name to get information about this product.
- - type in buy product_name to buy the product . 
- - and so on...
+When the program starts, the following options (Main Menu) are available based on the number/letter:
 
-
-### For your project. Edit this README.md file to include your own project name,  overview, user stories, and usage. 
-
-### NOTE: before submitting the final project, please do the following command:
-`pip freeze > requirements.txt` to enable use to know & use the packages used in your project.
+1. Practice Hiragana
+   - a. Display Hiragana Chart
+   - b. Search Hiragana Character Details by Romaji
+   - c. Back to Main Menu
+2. Practice Katakana
+   - a. Display Katakana Chart
+   - b. Search Katakana Character Details by Romaji
+   - c. Back to Main Menu
+3. Practice Kanji
+   - a. Display Kanji Chart
+   - b. Search Kanji Character Details by Number
+   - c. Back to Main Menu
+4. Random Word
+5. Multiple Choice Quiz (Kana romaji)
+6. Fill-in-the-Blank Quiz (Kana romaji)
+7. Random Fact / Cultural Insight
+8. Exit
