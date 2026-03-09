@@ -12,8 +12,14 @@ class Character:
     @classmethod
     def display_characters_chart(cls, json_path: str):
         '''Display a chart of characters'''
-        
-        characters = load_json(json_path)
+        try:    
+            characters = load_json(json_path)
+        except FileNotFoundError:
+            print(f"{Fore.RED}Error: JSON file not found at '{json_path}'.{Fore.RESET}")
+            return
+        except Exception as e:
+            print(f"{Fore.RED}An error occurred while loading the JSON file: {e}{Fore.RESET}")
+            return
         
         print()
         count = 0

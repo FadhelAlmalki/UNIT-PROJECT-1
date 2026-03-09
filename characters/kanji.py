@@ -13,11 +13,14 @@ class Kanji(Character):
     @classmethod
     def search_kanji_by_number(cls, number: str, json_path: str):
         '''Search for a Kanji by number and return a Kanji object'''
+        if not isinstance(number, str):
+            raise ValueError("Number must be a string.")
+        
         target = number.strip()
         kanji_data = load_json(json_path)
 
         if not isinstance(kanji_data, dict):
-            return None
+            raise ValueError("Invalid JSON format: Expected a dictionary of Kanji characters.")
 
         for key, item in kanji_data.items():
             if key.strip() == target:
@@ -29,5 +32,4 @@ class Kanji(Character):
                     strokes=item.get("strokes", 0),
                     example=item.get("example", "")
                 )
-        return None
 
