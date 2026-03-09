@@ -31,10 +31,10 @@ def get_kanji_menu():
                 print(f"{Fore.RED}Meaning in English: {result.example['translation']}{Fore.CYAN}{Fore.RESET}")
 
             else:
-                print(f"{Fore.RED}No matching Kanji character found for number '{number}'.{Fore.RESET}")
+                raise ValueError(f"{Fore.RED}No matching Kanji character found for number '{number}'.{Fore.RESET}")
         elif choice == 'c':
             break
         else:
-            print(f"{Fore.RED}Invalid choice. Please select a valid option (a-c).{Fore.RESET}")
+            raise ValueError(f"{Fore.RED}Invalid choice. Please select a valid option (a-c).{Fore.RESET}")
 
 #get_kanji_menu()

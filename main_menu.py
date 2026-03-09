@@ -43,7 +43,7 @@ def main_menu():
             print(f"\n{Fore.RED}Exiting the program. Goodbye!{Fore.RESET}")
             break
         else:
-            print(f"{Fore.RED}Invalid choice. Please select a valid option (1-8).{Fore.RESET}")
+            raise ValueError(f"{Fore.RED}Invalid choice. Please select a valid option (1-8).{Fore.RESET}")
 
 if __name__ == "__main__":
     main_menu()
