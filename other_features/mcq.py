@@ -4,9 +4,16 @@ from utils.json_manager import load_json
 
 def get_mcq():
     '''MCQ quiz: show a Hiragana/Katakana symbol and ask for the correct romaji'''
-    
-    hiragana_data = load_json("data/hiragana.json")
-    katakana_data = load_json("data/katakana.json")
+    try:
+        hiragana_data = load_json("data/hiragana.json")
+        katakana_data = load_json("data/katakana.json")
+
+    except FileNotFoundError:
+        print(f"{Fore.RED}Error: JSON file not found.{Fore.RESET}")
+        return
+    except Exception as e:
+        print(f"{Fore.RED}An error occurred while loading the JSON files: {e}{Fore.RESET}")
+        return
 
     characters = list(hiragana_data.values()) + list(katakana_data.values())
 
@@ -34,8 +41,7 @@ def get_mcq():
     user_answer = input(f"\n{Fore.YELLOW}Select an option (a-d): {Fore.RESET}").strip().lower()
 
     if user_answer not in options:
-        print(f"{Fore.RED}Invalid choice. Please select a valid option (a-d).{Fore.RESET}")
-        return
+        raise ValueError(f"{Fore.RED}Invalid choice. Please select a valid option (a-d).{Fore.RESET}")
 
     if options[user_answer] == correct_romaji:
         print(f"\n{Fore.GREEN}Correct!{Fore.RESET}")

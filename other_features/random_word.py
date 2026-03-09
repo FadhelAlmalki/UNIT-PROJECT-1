@@ -4,8 +4,15 @@ from utils.json_manager import load_json
 
 def get_random_word():
     '''Display a random Japanese word'''
-    
-    words = load_json('data/words.json')
+    try:
+        words = load_json('data/words.json')
+        
+    except FileNotFoundError:
+        print(f"{Fore.RED}Error: JSON file not found.{Fore.RESET}")
+        return
+    except Exception as e:
+        print(f"{Fore.RED}An error occurred while loading the JSON file: {e}{Fore.RESET}")
+        return
 
     random_word = random.choice(words)
 
