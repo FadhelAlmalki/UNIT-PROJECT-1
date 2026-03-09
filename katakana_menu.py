@@ -2,7 +2,6 @@ from colorama import Fore
 from characters.katakana import Katakana
 
 def get_katakana_menu():
-    #katakana = Katakana(None, None, None, None)
 
     while True:
         print(f"\n{Fore.MAGENTA}===+==( Katakana Practice Menu )==+==={Fore.RESET}")
@@ -19,10 +18,11 @@ def get_katakana_menu():
             result = Katakana.search_kana_by_romaji(romaji, "data/katakana.json")
 
             if result:
-                print(f"\n{Fore.RED}Character: {result.symbol}{Fore.CYAN}{Fore.RESET}")
+                print(f"\n{Fore.RED}---+- Character Information -+---{Fore.RESET}\n")
+                print(f"{Fore.RED}Character: {result.symbol}{Fore.CYAN}{Fore.RESET}")
                 print(f"{Fore.RED}Romaji: {result.romaji}{Fore.CYAN}{Fore.RESET}")
-                print(f"\n{Fore.RED}Strokes: {result.strokes}{Fore.CYAN}{Fore.RESET}")
-                print(f"{Fore.RED}---+- Example: -+---{Fore.RESET}")
+                print(f"{Fore.RED}Strokes: {result.strokes}{Fore.CYAN}{Fore.RESET}")
+                print(f"\n{Fore.RED}---+- Example: -+---{Fore.RESET}\n")
                 print(f"{Fore.RED}Word: {result.example['word']}{Fore.CYAN}{Fore.RESET}")
                 print(f"{Fore.RED}Meaning in English: {result.example['word_meaning']}{Fore.CYAN}{Fore.RESET}")
                 print(f"{Fore.RED}Sentence: {result.example['sentence']}{Fore.CYAN}{Fore.RESET}")

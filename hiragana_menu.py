@@ -2,7 +2,6 @@ from colorama import Fore
 from characters.hiragana import Hiragana
 
 def get_hiragana_menu():
-    #hiragana = Hiragana(None, None, None, None)
     
     while True:
         print(f"\n{Fore.MAGENTA}===+==( Hiragana Practice Menu )==+==={Fore.RESET}")
