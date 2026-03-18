@@ -1,11 +1,18 @@
-# UNIT-PROJECT-1
+# TerminalSensei 💻🎌 
+### Interactive Japanese Learning CLI Application (日本語学習CLIアプリケーション)
 
-# TerminalSensei –  An Interactive Japanese Learning CLI Application (日本語学習CLIアプリケーション)
+---
 
-#### Overview : an interactive Japanese learning CLI application built with Python. It helps users practise **Hiragana**, **Katakana**, and **Kanji** directly from the terminal, and also includes small quiz and discovery features such as random words and cultural facts. 
+## 📖 Overview
+**TerminalSensei** is an interactive command-line application built with Python to help users practise fundamental Japanese writing systems: **Hiragana**, **Katakana**, and **Kanji**.
 
-### Features & User Stories
-#### As a user I should be able to do the following :
+The application provides an engaging terminal-based learning experience through structured navigation, quizzes, and discovery features such as random words and cultural insights.
+
+---
+
+## ✨ Features & User Stories
+
+### As a user I should be able to do the following :
 - Display a Hiragana characters chart.
 - Display a Katakana characters chart.
 - Display a Kanji characters chart.
@@ -13,12 +20,12 @@
 - Search Katakana character details by romaji (symbol, romaji, strokes, example).
 - Search Kanji character details by number (symbol, onyomi, kunyomi, meaning, strokes, example).
 - Get a random Japanese word.
-- Take a multiple-choice quiz on kana romaji.
-- Take a fill-in-the-blank quiz for kana romaji.
+- Take a multiple-choice quiz (kana romaji).
+- Take a fill-in-the-blank quiz (kana romaji).
 - Get a random Japanese fact / cultural insight.
 
-#### Usage :
-When the program starts, the following options (Main Menu) are available based on the number/letter:
+### Usage - Application Flow (Main Menu):
+When the application starts, users can navigate through the following options:
 
 1. Practice Hiragana
    - a. Display Hiragana Chart
@@ -37,3 +44,43 @@ When the program starts, the following options (Main Menu) are available based o
 6. Fill-in-the-Blank Quiz (Kana romaji)
 7. Random Fact / Cultural Insight
 8. Exit
+
+---
+
+## 🚀 Installation & Setup
+
+### Prerequisites:
+- Python 3.10 or higher.
+- Git installed.
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/FadhelAlmalki/UNIT-PROJECT-1.git
+cd UNIT-PROJECT-1
+```
+
+### 2. Create a virtual environment and activate it:
+
+##### Windows:
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
+##### macOS/Linux:
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+### 3. Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Run the application:
+   
+```bash
+python main_menu.py
+```
