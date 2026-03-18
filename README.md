@@ -1,6 +1,8 @@
 # TerminalSensei 💻🎌 
 ### Interactive Japanese Learning CLI Application (日本語学習CLIアプリケーション)
-
+<p align="center">
+  <img src="images/TerminalSensei.png" alt="Main application screenshot" width="700"/>
+</p>
 ---
 
 ## 📖 Overview
