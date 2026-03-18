@@ -1,9 +1,9 @@
 # TerminalSensei 💻🎌 
 ### Interactive Japanese Learning CLI Application (日本語学習CLIアプリケーション)
+
 <p align="center">
   <img src="images/TerminalSensei.png" alt="Main application screenshot" width="700"/>
 </p>
----
 
 ## 📖 Overview
 **TerminalSensei** is an interactive command-line application built with Python to help users practise fundamental Japanese writing systems: **Hiragana**, **Katakana**, and **Kanji**.
