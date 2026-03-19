@@ -58,8 +58,8 @@ When the application starts, users can navigate through the following options:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/FadhelAlmalki/UNIT-PROJECT-1.git
-cd UNIT-PROJECT-1
+git clone https://github.com/FadhelAlmalki/terminal-sensei.git
+cd terminal-sensei
 ```
 
 ### 2. Create a virtual environment and activate it:
